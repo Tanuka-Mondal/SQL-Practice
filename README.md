@@ -1,2 +1,2 @@
-# SQL-Practice--Hackerrank
+# SQL-Practice-Hackerrank
 Practice SQL queries from Hackerrank.
